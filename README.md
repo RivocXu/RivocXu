@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋 This is Puyang(Rivoc) Xu
+🎓 I'm currently a MS ECE student at Duke University
 
 <!--
 **RivocXu/RivocXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
